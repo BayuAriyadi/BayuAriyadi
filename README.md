@@ -5,17 +5,17 @@ An independent Software Engineer who loves Mobile Technology and i like Art so m
 I'm currently active in Bangkit Academy from Dicoding! and currently I am also working on my thesis (i hope that it goes well T.T)
 
 - 🔭 I’m currently Studying at [Lambung Mangkurat University](https://ulm.ac.id/id/)
-- 🌱 I’m currently learning about Mobile Developement at Bangkit Academy by Google, GoTo, and Traveloka.
+- 🌱 I’m currently learning about Mobile Developement at [Bangkit Academy by Google, GoTo, and Traveloka.](https://grow.google/intl/id_id/bangkit/)
 - 💬 Feel free to ask me about Mobile Programming ^^.
 - 📫 How to reach me: bayuariyadi9@gmail.com
-- ⚡ Fun fact: Unofficially Hoshimachi Suisei Husban.
+- ⚡ Fun fact: Unofficially [Hoshimachi Suisei](https://www.youtube.com/@HoshimachiSuisei) Husban.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="php" title="php" width="21px" src="https://www.php.net/images/logos/new-php-logo.svg" /></a>
+  <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg" /></a>
+  <a href="https://www.android.com/"><img align="left" alt="Android" title="Android" width="21px" src="https://iconape.com/wp-content/files/uq/385827/svg/385827.svg" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://iconape.com/wp-content/files/fg/371054/svg/371054.svg" /></a>
   <br>
   <br>
   

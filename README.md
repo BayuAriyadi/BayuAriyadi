@@ -12,7 +12,7 @@ I'm currently active in Bangkit Academy from Dicoding! and currently I am also w
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://www.php.net/"><img align="left" alt="php" title="php" width="21px" src="https://www.php.net/images/logos/new-php-logo.svg" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="php" title="php" width="21px" src="https://iconape.com/wp-content/files/ac/371303/svg/371303.svg" /></a>
   <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg" /></a>
   <a href="https://www.android.com/"><img align="left" alt="Android" title="Android" width="21px" src="https://iconape.com/wp-content/files/uq/385827/svg/385827.svg" /></a>
   <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://iconape.com/wp-content/files/fg/371054/svg/371054.svg" /></a>

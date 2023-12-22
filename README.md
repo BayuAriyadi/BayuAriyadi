@@ -8,7 +8,7 @@ I'm currently active in Bangkit Academy from Dicoding! and currently I am also w
 - 🌱 I’m currently learning about Mobile Developement at [Bangkit Academy by Google, GoTo, and Traveloka.](https://grow.google/intl/id_id/bangkit/)
 - 💬 Feel free to ask me about Mobile Programming ^^.
 - 📫 How to reach me: bayuariyadi9@gmail.com
-- ⚡ Fun fact: Unofficially [Hoshimachi Suisei](https://www.youtube.com/@HoshimachiSuisei) Husban.
+- 🌠 [Hoshiyomi](https://www.youtube.com/@HoshimachiSuisei).
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>

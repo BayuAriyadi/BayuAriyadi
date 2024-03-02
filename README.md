@@ -5,7 +5,6 @@ An independent Software Engineer who loves Mobile Technology and i like Art so m
 I'm currently active in Bangkit Academy from Dicoding! and currently I am also working on my thesis (i hope that it goes well T.T)
 
 - 🔭 I’m currently Studying at [Lambung Mangkurat University](https://ulm.ac.id/id/)
-- 🌱 I’m currently learning about Mobile Developement at [Bangkit Academy by Google, GoTo, and Traveloka.](https://grow.google/intl/id_id/bangkit/)
 - 💬 Feel free to ask me about Mobile Programming ^^.
 - 📫 How to reach me: bayuariyadi9@gmail.com
 - 🌠 [Hoshiyomi](https://www.youtube.com/@HoshimachiSuisei).

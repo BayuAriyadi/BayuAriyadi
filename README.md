@@ -2,7 +2,7 @@
 
 An independent Software Engineer who loves Mobile Technology and i like Art so much!
 
-I'm currently active in Bangkit Academy from Dicoding! and currently I am also working on my thesis (i hope that it goes well T.T)
+I'm currently working on my thesis (i hope that it goes well T.T)
 
 - 🔭 I’m currently Studying at [Lambung Mangkurat University](https://ulm.ac.id/id/)
 - 💬 Feel free to ask me about Mobile Programming ^^.
@@ -28,6 +28,6 @@ I'm currently active in Bangkit Academy from Dicoding! and currently I am also w
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/bayuariyadi/">LinkedIn</a>
-- <a href="https://fuujin.tech">fuujin.tech</a>
+- <a href="https://pujin.my.id">pujin.my.id</a>
 - bayuariyadi@gmail.com
 - <a href="https://twitter/fuujinnn_">Twitter</a>
